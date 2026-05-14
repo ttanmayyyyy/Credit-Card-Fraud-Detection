@@ -1,4 +1,4 @@
-#Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 ### Overview
 Developed a Random forest classification model to detect fraudulent credit card transactions, successfully identifying high-rsik patterns to mitigate financial loss.
